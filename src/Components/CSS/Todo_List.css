@@ -1,0 +1,17 @@
+button{
+    background-color: white;
+    border:none;
+}
+
+.Checked{
+    text-decoration: line-through;
+}
+
+h5{
+    text-align: center;
+    color:lightseagreen;
+}
+
+.card{
+    background-color: lightseagreen;
+}
